@@ -113,29 +113,4 @@ while True:
     else:
         print('\n\n---------------    ▲▼    ---------------\n')
 
-    # ydl.download([videoLink])
-    # dictMeta = ydl.extract_info(videoLink, download=False)
-    # duration = dictMeta['duration']
-    #
-    # print(duration, type(duration))
-    #
-    # conversion = datetime.timedelta(seconds=duration)
-    # print(conversion)
-
-# playChoice = input('Do you want to play the downloaded track ? (y/n)').lower()
-# print(playChoice)
-
-# cwd = os.getcwd()
-# # # print(cwd)
-# #
-# files = os.listdir(cwd)
-# files2 = glob.glob(cwd + '/*.mp3')
-# latest_file = max(files2, key=os.path.getctime)
-# # print(latest_file)
-# #
-# if os.path.exists(latest_file):
-#     subprocess.call(["open", latest_file])
-
-# for i in files2:
-#     # if os.path.splitext(cwd+'/'+i)[1] == '.mp3':
-#     print(i)
+    
