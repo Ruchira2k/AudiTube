@@ -5,6 +5,7 @@ AudiTube is a simple python script that downloads and converts any YouTube Video
 ## Platforms :
 
 * MacOS - (as tested)
+* Linux OS
 * Windows OS
 
 ## Pre-Requisites :
